@@ -215,12 +215,14 @@ A real Manifesto is still to be written. Till then, Michael's response on [one o
 
 Use Default modules and use these for basic featured modules  
 
- MMM-Monthly Calendar  git clone https://github.com/KirAsh4/calendar_monthly 
- MMM-IframeReload git clone https://github.com/TheBogueRat/MMM-iFrameReload  
- MMM-MyCommute  git clone  https://github.com/jclarke0000/MMM-MyCommute  
- MMM-Ip  git clone https://github.com/fewieden/MMM-ip  
- MMM-Connection-status  git clone https://github.com/sheyabernstein/MMM-connection-status  
- MMM-YrThen  git clone https://github.com/fmandal/MMM-YrThen  
+@ MMM-Monthly Calendar  git clone https://github.com/KirAsh4/calendar_monthly 
+@ MMM-IframeReload git clone https://github.com/TheBogueRat/MMM-iFrameReload  
+@ MMM-MyCommute  git clone  https://github.com/jclarke0000/MMM-MyCommute  
+@ MMM-Ip  git clone https://github.com/fewieden/MMM-ip  
+@ MMM-Connection-status  git clone https://github.com/sheyabernstein/MMM-connection-status  
+@ MMM-YrThen  git clone https://github.com/fmandal/MMM-YrThen  
+
+![alt text](https://raw.githubusercontent.com/anooproy/MagicMirror/master/tests/preview.jpg)
 
 <p align="center">
 <br>
